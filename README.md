@@ -35,7 +35,7 @@ Usage
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Sentiment_analysis.git
+git clone https://github.com/varuagrathore/Sentiment_analysis.git
 ```
 
 2. Install the required libraries:
